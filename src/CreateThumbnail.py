@@ -1,3 +1,11 @@
+"""
+This source code was provided as part of an official AWS Skill Builder hands-on lab.
+
+The purpose of including this file in this repository is to document the complete implementation of the project and demonstrate the deployment and integration of the AWS services used during the lab.
+
+Original business logic and implementation were created by Amazon Web Services (AWS).
+"""
+
 import boto3
 import os
 import sys
